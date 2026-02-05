@@ -1,4 +1,4 @@
-# 🚀 Ekachai Kanya - Portfolio Website
+# 🚀 Jeranun Auemta - Portfolio Website
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
